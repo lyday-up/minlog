@@ -1,2 +1,2 @@
-# first
-study github
+# log practice
+study custom log
